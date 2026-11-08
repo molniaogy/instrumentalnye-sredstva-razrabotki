@@ -1,0 +1,26 @@
+[
+  {
+    "format": "JSON",
+    "wire_size_bytes": 211
+  },
+  {
+    "format": "XML",
+    "wire_size_bytes": 283
+  },
+  {
+    "format": "YAML",
+    "wire_size_bytes": 182
+  },
+  {
+    "format": "MessagePack",
+    "wire_size_bytes": 157
+  },
+  {
+    "format": "CBOR",
+    "wire_size_bytes": 159
+  },
+  {
+    "format": "Protobuf",
+    "wire_size_bytes": 117
+  }
+]
